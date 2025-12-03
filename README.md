@@ -71,13 +71,13 @@ MyVault/
 
 ---
 
-## Building a standalone binary (optional)
+## Building a standalone binary
 
 ```bash
 pip install pyinstaller
 pyinstaller --onefile --add-data "*.png;." main.py
 ```
-
+Binary Also Available in releases.
 ---
 
 ## License & disclaimer
