@@ -1,4 +1,4 @@
-```markdown
+
 # 🔒 Secure Personal Vault – XERO47
 
 A desktop application that turns any folder into an encrypted, password-protected vault for photos, documents, videos and private notes.  
@@ -91,4 +91,4 @@ Use at your own risk.
 ## Author
 
 XERO47 – pull requests welcome.
-```
+
